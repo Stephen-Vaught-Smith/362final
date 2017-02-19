@@ -1,0 +1,5 @@
+1. go through the video explaining URL validation
+2. explain the testIsValid function
+3. say how many total URLs are being tested
+4. explain how the function constructs URLs
+5. explain how a real-world test might differ from the provided unit test
