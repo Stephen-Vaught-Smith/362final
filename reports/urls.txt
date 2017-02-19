@@ -1,0 +1,6 @@
+valid url: http//google.com
+invalid url: file://C:\\some.file (see line 250 in the url test file)  
+
+The real world test is not too dissimilar from an ordinary unit test. It is more modular and complex in its assortment of available options
+tuned to test specific features of the function which it tests, but at its heart the real-world test is still a unit test, submitting parameters 
+to a function and using assertions on the returned data to determine if the tested function is performing as expected.
